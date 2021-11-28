@@ -1,3 +1,5 @@
+[Components and architecture](http://meseec.ce.rit.edu/551-projects/spring2017/2-3.pdf)
+
 # GPIO
 import RPi.GPIO as GPIO
 
