@@ -1,0 +1,16 @@
+# Python
+__pycache__
+
+# Pycharm
+.idea/*
+
+# Egg-info
+*.egg-info
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+s
+
+# Data
+data/

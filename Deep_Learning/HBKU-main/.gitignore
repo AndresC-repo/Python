@@ -1,0 +1,40 @@
+# Python
+__pycache__
+
+#test files
+test.py
+
+# Data
+labels/*
+imgs/*
+
+# Experiments
+training/*
+
+#Prediction
+.png
+
+# Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.dpth
+*.md5
+*.dep
+*.auxlock
+*.snm
+*.out
+*.nav
+*.toc
+
+# Pycharm
+.idea/*
+
+# Egg-info
+*.egg-info
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+s
